@@ -1,0 +1,26 @@
+﻿  spamSMS2.cpp
+c:\users\fridtjof\source\repos\spamsms2\spamsms2\spamsms2.cpp(273): warning C4244: 'argument': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+c:\users\fridtjof\source\repos\spamsms2\spamsms2\spamsms2.cpp(273): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\fridtjof\source\repos\spamsms2\spamsms2\spamsms2.cpp(303): warning C4244: 'argument': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+c:\users\fridtjof\source\repos\spamsms2\spamsms2\spamsms2.cpp(303): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\fridtjof\source\repos\spamsms2\spamsms2\spamsms2.cpp(330): warning C4244: 'argument': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+c:\users\fridtjof\source\repos\spamsms2\spamsms2\spamsms2.cpp(330): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\fridtjof\source\repos\spamsms2\spamsms2\spamsms2.cpp(352): warning C4244: 'argument': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+c:\users\fridtjof\source\repos\spamsms2\spamsms2\spamsms2.cpp(352): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  spamSMS2.vcxproj -> C:\Users\Fridtjof\source\repos\spamSMS2\Debug\spamSMS2.exe
